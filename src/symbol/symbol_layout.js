@@ -744,7 +744,7 @@ function addFeature(
     }
 }
 
-const MAX_GLYPH_ICON_SIZE = 1000;
+const MAX_GLYPH_ICON_SIZE = 100000;
 const MAX_PACKED_SIZE = MAX_GLYPH_ICON_SIZE * SIZE_PACK_FACTOR;
 export { MAX_PACKED_SIZE };
 
