@@ -1,7 +1,7 @@
 {
   "name": "mapbox-gl-mapto-fork",
   "description": "A WebGL interactive maps library - Fork for MapTo Software",
-  "version": "2.17.0",
+  "version": "2.17.1",
   "main": "dist/mapbox-gl.js",
   "style": "dist/mapbox-gl.css",
   "license": "SEE LICENSE IN LICENSE.txt",
